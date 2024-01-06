@@ -38,7 +38,7 @@ My name is Aleksandr. I am a QA Engineer from Belarus
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Pyton" width="40" height="40"/>&nbsp;
-<img src="https://github.com/goranvasic/svg-logos/blob/main/postman-logo.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" title="DB" alt="DB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" title="Charles" alt="Charles" width="40" height="40"/>&nbsp
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
