@@ -47,6 +47,3 @@ My name is Aleksandr. I am a QA Engineer from Belarus
 
 
 
-
-
-
