@@ -3,11 +3,10 @@
   </div>
 
   <div id="badges" align="center">
-
   <a href="https://t.me/cvetfrom">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href ="linkedin.com/in/aliaksandr-tsviatkou-593031282">
+  <a href ="https://linkedin.com/in/aliaksandr-tsviatkou-593031282">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a> 
 </div>
