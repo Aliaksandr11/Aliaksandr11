@@ -27,11 +27,11 @@ My name is Aleksandr. I am a QA Engineer from Belarus
 - :zap:
 
 ## My CV
-[Link](https://ссылочку_сюда)
+[Link](https://...)
 
 ## Portfolio
 - Text documentation
-  - [Text](link)
+  - [...](link)
   - 
 
 ## :hammer_and_wrench: Tools and Languages:
