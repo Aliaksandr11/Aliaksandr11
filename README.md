@@ -32,7 +32,7 @@ My name is Aleksandr. I am a QA Engineer from Belarus
 
 ## Portfolio
 - Text documentation
-  - [..](link)
+  - [...](link)
   - 
 
 ## :hammer_and_wrench: Tools and Languages:
