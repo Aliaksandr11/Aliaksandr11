@@ -21,7 +21,7 @@ Hey there
 </div>
 
 ## :man_technologist: About me:
-My name is Aleksandr. I am a QA Engineer from Belarus
+My name is Aleksandr. I am a QA Engineer from 
 
 - :telescope:
 - :seedling:
